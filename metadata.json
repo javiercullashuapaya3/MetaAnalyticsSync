@@ -1,0 +1,6 @@
+{
+  "name": "Meta Social Analytics & Sync",
+  "description": "Plataforma multi-tenant de analítica y sincronización delta de publicaciones y comentarios de Meta Graph API para empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
